@@ -11,4 +11,4 @@ Data source locations:
 - Gold: [Gold Prices Dataset from Gold Hub](https://www.gold.org/goldhub/data/gold-prices) (need to sign up for an account to download)
 - S&P 500 and Real Estate: [ONLINE DATA ROBERT SHILLER](http://www.econ.yale.edu/~shiller/data.htm) (Much thanks to Prof. Robert J. Shiller for providing this dataset)
 
-The Markdown report is available in the [report](./report/inflation_research.md) directory.
+The Markdown report is available in the [report](./report/inflation_research.md) directory (best read from your local computer - on the Github website, the styles for the tables do not display properly since CSS is not supported.).
